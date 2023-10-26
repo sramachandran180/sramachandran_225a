@@ -1,0 +1,8 @@
+"0","#set some Rmd defaults"
+"0","knitr::opts_chunk$set(echo = TRUE, fig.height = 6, fig.width = 7, warning = F)"
+"0",""
+"0","#load in libraries"
+"0","library(dittoSeq)"
+"0","library(tidyverse)"
+"0","library(Seurat)"
+"0","library(ggplot2)"

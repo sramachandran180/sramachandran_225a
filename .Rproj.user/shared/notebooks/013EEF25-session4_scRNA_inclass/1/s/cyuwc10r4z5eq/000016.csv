@@ -1,0 +1,8 @@
+"0","#write a line of code to calculate the number of cells in the object, and add it as a ""cells_label"" variable to the plot"
+"0","cells_label <- length(colnames(Tcells))"
+"0",""
+"0","main_umap = dittoDimPlot(Tcells,"
+"0","                         ""Tage"", size = 1, reduction.use = ""umap"", legend.show = FALSE,"
+"0","                         color.panel = dittoColors()[cols], main = NULL) +"
+"0","  annotate('text', x=-5.5, y=5, label = cells_label)"
+"0","main_umap"

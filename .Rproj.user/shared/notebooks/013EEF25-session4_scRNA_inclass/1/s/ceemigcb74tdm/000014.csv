@@ -1,0 +1,7 @@
+"0","#proof of concept for function below"
+"0","#Tcells$Tage == tage[1]"
+"0","  "
+"0","#write a Tage highlighter function"
+"0","highlight_cluster <- function(selected_tage, selected_color) {"
+"0","  dittoDimPlot(Tcells, ""Tage"", size = 1, reduction.use = ""umap"", cells.use = Tcells$Tage == selected_tage, colors = selected_color, legend.show = FALSE, ylab = NULL, xlab = NULL, main = NULL, show.axes.numbers = FALSE)"
+"0","}"

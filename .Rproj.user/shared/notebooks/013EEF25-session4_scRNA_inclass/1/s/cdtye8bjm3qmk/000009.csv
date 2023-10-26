@@ -1,0 +1,2 @@
+"0","#Colored with CD4s lighter and CD8s darker "
+"0","dittoDimPlot(object = Tcells, var = ""Tage"", size = 1.5, reduction.use = ""umap"", colors = c(1, 9, 2, 10, 3, 11), main = 'T cells lineage and age') "

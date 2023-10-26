@@ -1,0 +1,6 @@
+"0","# adding legend seperately for ultimate flexibility!"
+"0","legend = dittoSeq:::.grab_legend("
+"0","  dittoDimPlot(Tcells, ""Tage"", reduction.use = 'umap',"
+"0","               color.panel = dittoColors()[cols])"
+"0","  )"
+"0","legend"
