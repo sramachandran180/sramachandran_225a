@@ -1,6 +1,0 @@
-print("Hello")
-
-plot(cars)
-
-#type tab button to show directory of files
-read.csv("")

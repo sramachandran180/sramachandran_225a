@@ -1,0 +1,5 @@
+"0",""
+"0","pre_filt_mito <- dittoScatterPlot(object = Tcells, "
+"0","                                  x.var = ""nFeature_RNA"","
+"0","                                  y.var = ""percent.mito"")"
+"0","plot(pre_filt_mito)"

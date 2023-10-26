@@ -1,0 +1,6 @@
+"0","multi_dittoPlot(object = Tcells,"
+"0","                vars = c(""nFeature_RNA"", ""nCount_RNA"",""percent.mito""),"
+"0","                group.by = ""orig.ident"","
+"0","                plots = c(""vlnplot"",""jitter""),"
+"0","                jitter.width = 1.5,"
+"0","                jitter.size = 0.25)"

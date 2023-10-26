@@ -1,0 +1,6 @@
+"0","#create a ""processed_data"" dir"
+"0","dir.create('./../processed_data/)"
+"2","Error: unexpected symbol in:
+""#create a ""processed_data"" dir
+dir.create('.""
+"

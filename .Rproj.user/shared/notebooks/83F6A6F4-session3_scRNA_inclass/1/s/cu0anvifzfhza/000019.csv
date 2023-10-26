@@ -1,0 +1,7 @@
+"0",""
+"0","# Better examined with:"
+"0","dittoScatterPlot(Tcells,"
+"0","                 ""nFeature_RNA"", ""nCount_RNA"", color.var = ""percent.mito"","
+"0","                 max = 20) +"
+"0","    geom_hline(yintercept = 1500) +"
+"0","    geom_vline(xintercept = 750)"
